@@ -488,7 +488,8 @@ td input{
     width: 20px;
     height: 30px;
     text-align: left;
-    padding: 5px;
+    padding: 5px 15px;
+    margin: 5px;
 }
 
 td img{
